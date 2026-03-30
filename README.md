@@ -57,14 +57,12 @@ Third-year Diploma in ICT (Application Development) student seeking a **Work Int
 - 📞 082-495-9912  
    📧 ranchodb@cput.ac.za  
 ---
-
-## 📂 Portfolio
-
-📄 **[View My CV](./CV%20of%20Ethan%20Williams.pdf)**  
-🎥 **[Watch Mock Interview](./Mock%20Interview%20of%20Ethan%20Williams.mp4)**
 - **Richard Maliwatu**  
 - Cape Peninsula University of Technology  
 - 📞 071-077-9922  
 - 📧 maliwatur@cput.ac.za
 
 ---
+
+📄 **[View My CV](./CV%20of%20Ethan%20Williams.pdf)**  
+🎥 **[Watch Mock Interview](./Mock%20Interview%20of%20Ethan%20Williams.mp4)**
