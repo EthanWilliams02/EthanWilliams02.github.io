@@ -63,8 +63,3 @@ Third-year Diploma in ICT (Application Development) student seeking a **Work Int
 - 📧 maliwatur@cput.ac.za
 
 ---
-
-## 📂 Portfolio
-
-📄 **[View My CV](./CV%20of%20Ethan%20Williams.pdf)**  
-🎥 **[Watch Mock Interview](./Mock%20Interview%20of%20Ethan%20Williams.mp4)**
