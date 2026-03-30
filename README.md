@@ -7,17 +7,16 @@
 </p>
 
 ---
-
-## 🎯 Career Objective
-Third-year Diploma in ICT (Application Development) student seeking a **Work Integrated Learning (WIL)** opportunity to apply `Java`, `SQL`, and front-end development skills in a practical software development environment.
-
----
-
 ## 📞 Contact
 - **Phone:** 0794827072  
 - **Address:** 136 Third Avenue, Grassy Park  
 - **Email:** 221454780@mycput.ac.za  
 - **LinkedIn:** [linkedin.com/in/ethan-williams-a768ba267](http://www.linkedin.com/in/ethan-williams-a768ba267)
+
+---
+
+## 🎯 Career Objective
+Third-year Diploma in ICT (Application Development) student seeking a **Work Integrated Learning (WIL)** opportunity to apply `Java`, `SQL`, and front-end development skills in a practical software development environment.
 
 ---
 
