@@ -1,4 +1,3 @@
-
 # Ethan Williams
 ---
 
@@ -7,11 +6,12 @@
 </p>
 
 ---
+
 ## 📞 Contact
 - **Phone:** 0794827072  
 - **Address:** 136 Third Avenue, Grassy Park  
 - **Email:** 221454780@mycput.ac.za  
-- **LinkedIn:** [linkedin.com/in/ethan-williams-a768ba267](http://www.linkedin.com/in/ethan-williams-a768ba267)
+- **LinkedIn:** http://www.linkedin.com/in/ethan-williams-a768ba267
 
 ---
 
@@ -50,3 +50,14 @@ Third-year Diploma in ICT (Application Development) student seeking a **Work Int
   Diploma in ICT: Application Development (Third Year) | 2024–Present  
 
 ---
+
+## 📌 References
+- **Bhadra Ranchod**  
+- Cape Peninsula University of Technology  
+- 📞 082-495-9912  
+   📧 ranchodb@cput.ac.za  
+
+- **Richard Maliwatu**  
+- Cape Peninsula University of Technology  
+- 📞 071-077-9922  
+- 📧 maliwatur@cput.ac.za  
