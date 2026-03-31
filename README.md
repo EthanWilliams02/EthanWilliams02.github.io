@@ -50,22 +50,42 @@ Third-year Diploma in ICT (Application Development) student seeking a **Work Int
   Diploma in ICT: Application Development (Third Year) | 2024–Present  
 
 ---
+## 📂 Academic Projects
 
+### 🎓 Student Management System – Java Desktop Application | 2025
+- Collaborated in a team of three to develop a Java Swing desktop application  
+- Applied object-oriented programming principles (encapsulation, inheritance, polymorphism)  
+- Integrated SQL database for persistent data storage  
+- Designed GUI components with validation and error handling  
+- 🔗 GitHub: https://github.com/EthanWilliams02/Term4_ADP_Assignment.git  
+
+---
+
+### 📱 NSFAS App Redesign – UI/UX Project | 2025
+- Worked in a team to redesign the NSFAS mobile application interface  
+- Analysed usability issues and improved layout, navigation, and user flow  
+- Created wireframes and high-fidelity prototypes using Figma  
+- Focused on accessibility and overall user experience improvements  
+- 🎨 Prototype: https://www.figma.com/proto/2o459QPq1FgqfB1zrhvukq/Untitled?node-id=0-1  
+
+---
 ## 📌 References
 - **Bhadra Ranchod**  
 - Cape Peninsula University of Technology  
-- 📞 082-495-9912  
-   📧 ranchodb@cput.ac.za  
+📞 082-495-9912  
+📧 ranchodb@cput.ac.za  
+
 ---
+
 - **Richard Maliwatu**  
 - Cape Peninsula University of Technology  
-- 📞 071-077-9922  
-- 📧 maliwatur@cput.ac.za
+📞 071-077-9922  
+📧 maliwatur@cput.ac.za  
 
 ---
-
-📄 **[View My CV](./CV%20of%20Ethan%20Williams.pdf)** 
-
-<video width="600" controls>
+# Mock Interview Video
+---
+<video width="700" controls>
   <source src="Mock Interview of Ethan Williams.mp4" type="video/mp4">
 </video>
+---
