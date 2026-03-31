@@ -64,5 +64,8 @@ Third-year Diploma in ICT (Application Development) student seeking a **Work Int
 
 ---
 
-📄 **[View My CV](./CV%20of%20Ethan%20Williams.pdf)**  
-🎥 **[Watch Mock Interview](./Mock%20Interview%20of%20Ethan%20Williams.mp4)**
+📄 **[View My CV](./CV%20of%20Ethan%20Williams.pdf)** 
+
+<video width="600" controls>
+  <source src="Mock Interview of Ethan Williams.mp4" type="video/mp4">
+</video>
