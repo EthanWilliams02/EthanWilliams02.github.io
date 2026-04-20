@@ -93,11 +93,11 @@ Third-year Diploma in ICT (Application Development) student seeking a **Work Int
 </video>
 ---
 
-# Reflection on Markdown
-I started with no experience in Markdown and was tasked to create professional and well-structured README files, practiced the formatting by experimenting with headings, images, and layouts, and eventually became confident in producing clean and organized documentation .
+## Reflection on Markdown
+I started with no experience in Markdown and found it challenging to create professional and well-structured README files at first. I had to learn how different formatting elements work and how to organize content properly. To improve, I practiced by experimenting with headings, images, and layouts, and I paid attention to how small changes affected the overall presentation. Over time, I became more comfortable using Markdown, and I am now confident in producing clean, organized, and professional documentation that makes my projects easier to understand.
 
-# Reflection on Mock Interview
-I felt nervous going into the mock interview because I didn’t have much experience, but I wanted to improve my communication and confidence, so I prepared my answers and focused on speaking clearly, which helped me feel more confident and better understand how to present myself.
+## Reflection on Mock Interview
+I felt nervous going into the mock interview because I didn’t have much experience speaking in that kind of setting. However, I wanted to improve my communication skills and build my confidence. I prepared my answers beforehand and made an effort to speak clearly and stay calm during the interview. This experience helped me become more aware of how I present myself and how I answer questions, and it left me feeling more confident and better prepared for real interview situations.
 
-# Reflection on Github Pages
-I initially found deploying with GitHub Pages confusing and unfamiliar, but I wanted to successfully publish my project online, so I followed the setup steps and fixed errors through trial and error until I got it live, which gave me a strong sense of achievement.
+## Reflection on GitHub Pages
+I initially found deploying with GitHub Pages confusing and unfamiliar, especially since it was my first time putting a project online. Despite this, I was determined to successfully publish my work. I followed the setup steps carefully and worked through any errors by troubleshooting and trying again until everything worked correctly. In the end, I managed to get my project live, which gave me a strong sense of achievement and made me feel more confident in my ability to deploy and share my work online.
