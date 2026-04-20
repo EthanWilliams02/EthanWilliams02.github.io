@@ -94,10 +94,10 @@ Third-year Diploma in ICT (Application Development) student seeking a **Work Int
 ---
 
 # Reflection on Markdown
--I started with no experience in Markdown and was tasked to create professional and well-structured README files, practiced the formatting by experimenting with headings, images, and layouts, and eventually became confident in producing clean and organized documentation .
+I started with no experience in Markdown and was tasked to create professional and well-structured README files, practiced the formatting by experimenting with headings, images, and layouts, and eventually became confident in producing clean and organized documentation .
 
 # Reflection on Mock Interview
--I felt nervous going into the mock interview because I didn’t have much experience, but I wanted to improve my communication and confidence, so I prepared my answers and focused on speaking clearly, which helped me feel more confident and better understand how to present myself.
+I felt nervous going into the mock interview because I didn’t have much experience, but I wanted to improve my communication and confidence, so I prepared my answers and focused on speaking clearly, which helped me feel more confident and better understand how to present myself.
 
 # Reflection on Github Pages
--I initially found deploying with GitHub Pages confusing and unfamiliar, but I wanted to successfully publish my project online, so I followed the setup steps and fixed errors through trial and error until I got it live, which gave me a strong sense of achievement.
+I initially found deploying with GitHub Pages confusing and unfamiliar, but I wanted to successfully publish my project online, so I followed the setup steps and fixed errors through trial and error until I got it live, which gave me a strong sense of achievement.
