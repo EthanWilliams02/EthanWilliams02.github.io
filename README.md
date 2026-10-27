@@ -1,4 +1,4 @@
-# Ethan Williams
+ Ethan Williams
 
 ---
 
@@ -127,6 +127,8 @@ The following sections present the team’s planning documents and my individual
 - [Product Backlog](#product-backlog)
 - [Sprint Backlog](#sprint-backlog)
 - [My Agile Logbook](#my-agile-logbook)
+- [Graduate Attributes and Portfolio Evidence](#graduate-attributes-and-portfolio-evidence)
+- [Project Images and Testing Videos](#project-images-and-testing-videos)
 - [Overall Project Reflection](#overall-project-reflection)
 
 ---
@@ -217,6 +219,72 @@ My individual logbook records:
 The logbook helped me distinguish what I had worked on from what I still needed to do. It also encouraged me to identify dependencies instead of recording only successful progress.
 
 The early August entries describe practical difficulties involving sensor availability, breadboard space, and the ESP32 cloud connection. These examples helped me see how hardware and connectivity problems affect planning and documentation. I learned that useful entries should be specific and written close to the time the work takes place. In future, I would attach task IDs, screenshots, or test notes to each update so that my contribution and the supporting evidence are easier to follow.
+
+---
+
+### Graduate Attributes and Portfolio Evidence
+
+#### Evidence
+
+📄 **[View the SAEON Graduate Attributes and Portfolio Evidence](./evidence/SAEON_Graduate_Attributes_and_Portfolio_Evidence.pdf)**
+
+---
+
+### Project Images and Testing Videos
+
+The following images and videos provide supporting evidence of project planning, the hardware setup, and prototype testing.
+
+#### Project Images
+
+**Trello project board**
+
+![Trello project board](./evidence/Trello.jpeg)
+
+**Soil and temperature sensor setup**
+
+![Soil and temperature sensor setup](./evidence/Soil%20sensor%20and%20temp%20Sensor.jpeg)
+
+**Everything connected**
+
+![Connected prototype hardware](./evidence/Everything%20Connected.jpeg)
+
+#### Testing Videos
+
+**Testing the soil sensor**
+
+<video width="700" controls preload="metadata">
+  <source src="./evidence/Testing%20Soil%20Sensor.mp4" type="video/mp4">
+  Your browser does not support embedded video. Use the link below to watch or download it.
+</video>
+
+[Watch or download: Testing Soil Sensor.mp4](./evidence/Testing%20Soil%20Sensor.mp4)
+
+**Testing everything with the dashboard**
+
+<video width="700" controls preload="metadata">
+  <source src="./evidence/Testing%20everything%20with%20dashboard.mp4" type="video/mp4">
+  Your browser does not support embedded video. Use the link below to watch or download it.
+</video>
+
+[Watch or download: Testing everything with dashboard.mp4](./evidence/Testing%20everything%20with%20dashboard.mp4)
+
+**Testing the temperature sensor**
+
+<video width="700" controls preload="metadata">
+  <source src="./evidence/Testing%20temp%20sensor.mp4" type="video/mp4">
+  Your browser does not support embedded video. Use the link below to watch or download it.
+</video>
+
+[Watch or download: Testing temp sensor.mp4](./evidence/Testing%20temp%20sensor.mp4)
+
+**Testing the rain gauge**
+
+<video width="700" controls preload="metadata">
+  <source src="./evidence/Testing%20Rain%20gauge.mp4" type="video/mp4">
+  Your browser does not support embedded video. Use the link below to watch or download it.
+</video>
+
+[Watch or download: Testing Rain gauge.mp4](./evidence/Testing%20Rain%20gauge.mp4)
 
 ---
 
