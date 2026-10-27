@@ -97,13 +97,10 @@ The project addresses the delays and field visits associated with manually retri
 
 - **ESP32 WROOM-32:** Processes sensor readings and runs the station firmware.
 - **TR-525M rain gauge:** Measures rainfall through tipping-bucket events.
-- **DS18B20 temperature sensor:** Measures temperature.
+- **SHT31 temperature & humidity sensor:** Measures temperature.
 - **SIM7000G:** Provides cellular connectivity.
-- **HiveMQ Cloud:** Supports MQTT communication.
-- **Supabase:** Stores monitoring records for the dashboard.
+- **Firebase:** Stores monitoring records for the dashboard.
 - **Dashboard:** Displays current and historical readings, station information, and CSV exports.
-
-The project also includes battery monitoring, solar integration, and preparation of the hardware for deployment.
 
 ### My Role and Contribution
 
@@ -118,18 +115,6 @@ My responsibilities include:
 - Writing setup instructions and technical documentation.
 - Preparing presentation content and explaining project findings.
 
-### Project Period and Status
-
-**Project period:** 28 July–23 October 2026  
-**Schedule:** 13 weekly sprints, with work recorded Tuesday–Friday.
-
-The current backlog records **43 task cards as Completed** and **six deployment and field-validation tasks as In Progress**.
-
-Prototype documentation review is complete, while final installation, baseline field calibration, and field validation remain open.
-
-Trello is used for task tracking, while GitHub stores project code, documentation, and portfolio evidence.
-
----
 
 ## 📋 Agile Portfolio of Evidence
 
@@ -153,7 +138,6 @@ The following sections present the team’s planning documents and my individual
 📄 **[View the Agile Team Charter](./evidence/Agile%20Team%20Charter%20SAEON.pdf)**
 
 The charter defines our shared purpose, team roles, working agreements, communication practices, decision-making process, milestones, risks, and Definition of Done.
-
 It provides a common understanding of how we work together and what the project aims to achieve.
 
 #### Reflection
@@ -171,7 +155,6 @@ One challenge was keeping the charter consistent with the project as the scope a
 📄 **[View the User Stories and Tasks](./evidence/SAEON%20User%20Stories%20and%20Tasks.pdf)**
 
 This document contains 13 user stories describing the needs of researchers, station operators, and maintainers.
-
 Each story includes acceptance criteria and practical tasks. The stories cover rainfall and temperature measurement, remote transmission, storage, dashboard access, historical data, exports, station health, power, deployment, and maintenance.
 
 #### Reflection
@@ -189,9 +172,7 @@ I found it useful to separate the user’s need from the tasks required to meet 
 📄 **[View the Product Backlog](./evidence/SAEON%20Product%20Backlog.pdf)**
 
 The product backlog organises the project into 13 sprint groups. It contains 62 cards in total: 13 sprint headings and 49 task cards.
-
 The work covers planning, sensor firmware, cloud communication, dashboard development, power integration, assembly, testing, documentation, and presentation preparation.
-
 Its progress columns distinguish completed work from the deployment and field-validation activities still in progress.
 
 #### Reflection
@@ -209,7 +190,6 @@ Reviewing the backlog also highlighted dependencies. For example, meaningful das
 📄 **[View the Sprint Backlog](./evidence/SAEON%20Sprint%20Backlog.pdf)**
 
 The sprint backlog breaks the 13-week plan into weekly goals and daily tasks. It identifies task leads, dependencies, acceptance checks, and the evidence needed for review.
-
 My allocated work focuses on research, architecture documentation, reviewing results, preparing technical guides, and developing presentation content.
 
 #### Reflection
@@ -226,19 +206,11 @@ A useful lesson was that completing a document does not automatically mean the s
 
 📄 **[View Ethan Williams’s Agile Logbook](./evidence/SAEON%20Agile%20Logbook%20Ethan.pdf)**
 
-**Name:** Ethan Williams  
-**Student number:** 221454780  
-**Period:** 28 July–23 October 2026  
-**Recorded workdays:** Tuesday–Friday  
-**Number of dated entries:** 52
-
 My individual logbook records:
 
 - Work completed since the previous update.
 - Work planned before the next update.
 - Current impediments, dependencies, and risks.
-
-It follows my research, documentation, evidence-review, and presentation responsibilities across the project.
 
 #### Reflection
 
